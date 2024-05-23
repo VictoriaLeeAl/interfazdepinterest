@@ -14,7 +14,7 @@ Se enfoca en replicar la apariencia visual de Pinterest ofreciendo una experienc
 + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _cover_.
 
 ### Vista Previa del Proyecto
----Pendiente---
+![Demo](imagenes/Pinterest_screen.PNG)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/victoria-lee-a6a62023b/)
