@@ -10,6 +10,11 @@ Se enfoca en replicar la apariencia visual de Pinterest ofreciendo una experienc
 * **Iconografía y Estilos Modernos:** Uso de la biblioteca de íconos de Material Design y estilos CSS modernos para una apariencia cool.
 
 ### Tecnologías utilizadas
-+**HTML5:** Para la estructura básica del sitio.
-+**CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _cover_.
-  
++ **HTML5:** Para la estructura básica del sitio.
++ **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _cover_.
+
+### Vista Previa del Proyecto
+---Pendiente---
+
+### Contacto
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/victoria-lee-a6a62023b/)
